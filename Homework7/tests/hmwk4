@@ -1,0 +1,7 @@
+Five = 2 + 3
+Five * -4
+Age = 2 + 3 * Five
+A = 3 + (B = 2)
+A * B
+C = D = A
+E = (F = 1) + F
